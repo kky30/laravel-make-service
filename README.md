@@ -2,7 +2,7 @@
 [![Total Downloads](https://poser.pugx.org/kky30/laravel-make-service/downloads)](https://packagist.org/packages/kky30/laravel-make-service)
 [![Latest Unstable Version](https://poser.pugx.org/kky30/laravel-make-service/v/unstable)](//packagist.org/packages/kky30/laravel-make-service)
 [![License](https://poser.pugx.org/kky30/laravel-make-service/license)](https://packagist.org/packages/kky30/laravel-make-service)
-# artisan make:service command for Laravel 9+
+# Artisan make:service command for Laravel 9+
 A simple package for adding `php artisan make:service` command to Laravel 9+
 
 ## Installation

@@ -30,7 +30,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Kky30\\LaravelMakeService\\LaravelMakeService"
+                "Kky30\\LaravelMakeService\\MakeServiceProvider"
             ]
         }
     }
