@@ -1,0 +1,12 @@
+<?php
+
+namespace {{ namespace }};
+
+use {{ model }};
+
+class {{ class }}
+{
+    public function __construct(protected {{ upperModel }} ${{ lowerModel }})
+    {
+    }
+}
