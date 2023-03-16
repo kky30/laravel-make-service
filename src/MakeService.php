@@ -117,7 +117,7 @@ class MakeService extends GeneratorCommand
             $replacements = [
                 '{{ model }}' => $this->parseModel($this->getModelName()),
                 '{{ upperModel }}' => ucfirst($this->getModelName()),
-                '{{ lowerModel }}' => strtolower($this->getModelName()),
+                '{{ lowerModel }}' => lcfirst($this->getModelName()),
             ];
 
             foreach ($replacements as $key => $value) {
